@@ -1,0 +1,185 @@
+{
+    "result": {
+        "data": {
+            "status": 0,
+            "order_no": 0,
+            "is_public_data_type": null,
+            "qi_time": "",
+            "station_code": "DNo_AINC_NUONT2",
+            "longitude": 107.586836,
+            "last_time": "2023-06-10",
+            "indicators": [
+                {
+                    "qcvn_detail_type_code": null,
+                    "name": "Flow_out",
+                    "qcvn_code": "",
+                    "qcvn_detail_max_value": null,
+                    "key": "Flow_out",
+                    "unit": "m3/h"
+                },
+                {
+                    "qcvn_detail_type_code": null,
+                    "name": "Flow_in_1",
+                    "qcvn_code": "",
+                    "qcvn_detail_max_value": null,
+                    "key": "Flow_in_1",
+                    "unit": "m3/h"
+                },
+                {
+                    "qcvn_detail_type_code": null,
+                    "name": "Flow_in_2",
+                    "qcvn_code": "",
+                    "qcvn_detail_max_value": null,
+                    "key": "Flow_in_2",
+                    "unit": "m3/h"
+                },
+                {
+                    "qcvn_detail_type_code": null,
+                    "name": "COD",
+                    "qcvn_code": "",
+                    "qcvn_detail_max_value": null,
+                    "key": "COD",
+                    "unit": "mg/l"
+                },
+                {
+                    "qcvn_detail_type_code": null,
+                    "name": "pH",
+                    "qcvn_code": "",
+                    "qcvn_detail_max_value": null,
+                    "key": "pH",
+                    "unit": ""
+                },
+                {
+                    "qcvn_detail_type_code": null,
+                    "name": "NH4+",
+                    "qcvn_code": "",
+                    "qcvn_detail_max_value": null,
+                    "key": "NH4+",
+                    "unit": "mg/L"
+                },
+                {
+                    "qcvn_detail_type_code": null,
+                    "name": "TSS",
+                    "qcvn_code": "",
+                    "qcvn_detail_max_value": null,
+                    "key": "TSS",
+                    "unit": "mg/l"
+                }
+            ],
+            "qi_day": null,
+            "address": "",
+            "latitude": 11.969476,
+            "qi": "-",
+            "station_name": "TR\u1ea0M N\u01af\u1edaC TH\u1ea2I C\u1ee6A X\u1ea2 3",
+            "qi_day_time": null,
+            "data": {
+                "Temp": {
+                    "status": 0,
+                    "station_qcvn_max": null,
+                    "indicator_name": "Temp",
+                    "is_exceed": false,
+                    "station_indicator_id": "30716133750587237255468677628",
+                    "value": 24.18,
+                    "indicator_id": "28429342215451431160939106722",
+                    "unit_convert_rate": 1.0,
+                    "get_time": "2023-06-10 21:20:00",
+                    "station_qcvn_min": null,
+                    "unit": "\u00b0C"
+                },
+                "Flow_in_2": {
+                    "status": 0,
+                    "station_qcvn_max": null,
+                    "indicator_name": "Flow_in_2",
+                    "is_exceed": false,
+                    "station_indicator_id": "30716132625335848758514940412",
+                    "value": 4.52,
+                    "indicator_id": "30716132016593294325093104124",
+                    "unit_convert_rate": 1.0,
+                    "get_time": "2023-06-10 21:20:00",
+                    "station_qcvn_min": null,
+                    "unit": "m3/h"
+                },
+                "Flow_in_1": {
+                    "status": 0,
+                    "station_qcvn_max": null,
+                    "indicator_name": "Flow_in_1",
+                    "is_exceed": false,
+                    "station_indicator_id": "30716132514655384315955640828",
+                    "value": 4.67,
+                    "indicator_id": "30716131629211668776588540412",
+                    "unit_convert_rate": 1.0,
+                    "get_time": "2023-06-10 21:20:00",
+                    "station_qcvn_min": null,
+                    "unit": "m3/h"
+                },
+                "Flow_out": {
+                    "status": 0,
+                    "station_qcvn_max": null,
+                    "indicator_name": "Flow_out",
+                    "is_exceed": false,
+                    "station_indicator_id": "30716132385528175799972002300",
+                    "value": 2.67,
+                    "indicator_id": "30716105840663453723119188476",
+                    "unit_convert_rate": 1.0,
+                    "get_time": "2023-06-10 21:20:00",
+                    "station_qcvn_min": null,
+                    "unit": "m3/h"
+                },
+                "COD": {
+                    "status": 0,
+                    "station_qcvn_max": null,
+                    "indicator_name": "COD",
+                    "is_exceed": false,
+                    "station_indicator_id": "30716132791356545421917682172",
+                    "value": 1.89,
+                    "indicator_id": "28429342215451431160939106716",
+                    "unit_convert_rate": 1.0,
+                    "get_time": "2023-06-10 21:20:00",
+                    "station_qcvn_min": null,
+                    "unit": "mg/L"
+                },
+                "NH4+": {
+                    "status": 0,
+                    "station_qcvn_max": null,
+                    "indicator_name": "NH4+",
+                    "is_exceed": false,
+                    "station_indicator_id": "30716133639906772812892600828",
+                    "value": 0.46,
+                    "indicator_id": "28678006291709568943060128413",
+                    "unit_convert_rate": 1.0,
+                    "get_time": "2023-06-10 21:20:00",
+                    "station_qcvn_min": null,
+                    "unit": "mg/L"
+                },
+                "pH": {
+                    "status": 0,
+                    "station_qcvn_max": null,
+                    "indicator_name": "pH",
+                    "is_exceed": false,
+                    "station_indicator_id": "30716133381652355780505893372",
+                    "value": 6.87,
+                    "indicator_id": "28429342215451431160939106718",
+                    "unit_convert_rate": 1.0,
+                    "get_time": "2023-06-10 21:20:00",
+                    "station_qcvn_min": null,
+                    "unit": ""
+                },
+                "TSS": {
+                    "status": 0,
+                    "station_qcvn_max": null,
+                    "indicator_name": "TSS",
+                    "is_exceed": false,
+                    "station_indicator_id": "30716133842820957623999658492",
+                    "value": 0.36,
+                    "indicator_id": "28429342215451431160939106711",
+                    "unit_convert_rate": 1.0,
+                    "get_time": "2023-06-10 21:20:00",
+                    "station_qcvn_min": null,
+                    "unit": "mg/L"
+                }
+            },
+            "id": "30716130706874465090255321596"
+        },
+        "success": true
+    }
+}
